@@ -1,6 +1,6 @@
 # EP2 - Sistema de Gerenciamento e Análise de Reservas de Auditório (ICCD/USP)
 
-Este projeto, desenvolvido como o segundo Exercício-Programa (EP2) da disciplina Introdução à Ciência da Computação e Dados (ICCD) da USP, consiste em um sistema em **Python** para o gerenciamento e análise de dados de reservas de um auditório fictício.
+Este projeto, desenvolvido como o segundo Exercício-Programa (EP2) da disciplina Introdução à Ciência da Computação e Dados (ICC) da USP, consiste em um sistema em **Python** para o gerenciamento e análise de dados de reservas de um auditório fictício.
 
 O sistema opera sobre um conjunto de dados (`.csv`) contendo informações detalhadas sobre as reservas e oferece um menu interativo para diversas operações de consulta e análise.
 
