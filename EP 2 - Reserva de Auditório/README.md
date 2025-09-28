@@ -26,7 +26,6 @@ O programa principal (`main()`) apresenta um menu de operações que permite ao 
 
 * `ep2.py`: Arquivo principal contendo a implementação de todas as funções do sistema.
 * `Enunciado_EP2.pdf`: O arquivo original do enunciado do Exercício-Programa (incluído para referência).
-* *`(outros arquivos, como esqueleto_EP2.py, se aplicável)`*
 
 ---
 
